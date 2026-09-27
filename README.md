@@ -7,7 +7,7 @@ Clinical data engineering and biostatistical programming repository covering Bas
 ## PART 1: Base SAS Data Architecture & Core Foundations
 
 ### Phase 1: Data Access & Ingestion Pipelines
-- [x] **01: SAS Computing Architecture & Production Workspace Environment**
+- [ ] **01: SAS Computing Architecture & Production Workspace Environment**
 - [ ] **02: SAS Core Processing Rules (DATA vs PROC Step Execution Boundaries)**
 - [ ] **03: Enterprise Libraries Architecture (WORK Storage vs Permanent Storage)**
 - [ ] **04: In-Stream Data Ingestion via DATALINES & Delimiter Parsing**
