@@ -6,7 +6,7 @@ A complete, industry‑aligned portfolio covering Base SAS, Advanced SAS, CDISC 
 📘 Base SAS Foundations
 
 🔹 Data Access & Ingestion
-- [x] 01: SAS Computing Architecture  
+- [ ] 01: SAS Computing Architecture  
 - [ ] 02: DATA vs PROC Step Boundaries  
 - [ ] 03: WORK vs Permanent Libraries  
 - [ ] 04: DATALINES Ingestion  
