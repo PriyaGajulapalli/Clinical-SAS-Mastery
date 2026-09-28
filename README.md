@@ -147,7 +147,7 @@ Programs will be stored in `/qc/`.
 ---
 
 # 📂 Recommended Repository Structure  
-
+'''
 /base_sas/
 /advanced_sas/
 /cdisc_sdtm/
@@ -156,7 +156,7 @@ Programs will be stored in `/qc/`.
 /qc/
 /projects/
 
-
+'''
 ---
 
 # 🎯 Progress Tracking  
