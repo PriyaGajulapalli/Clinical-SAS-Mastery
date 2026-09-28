@@ -148,15 +148,14 @@ Programs will be stored in `/qc/`.
 
 ## 📁 Recommended Repository Structure
 
-```text
-├── base_sas/
-├── advanced_sas/
-├── cdisc_sdtm/
-├── cdisc_adam/
-├── tlf/
-├── qc/
-└── projects/
-```
+* `base_sas/`
+* `advanced_sas/`
+* `cdisc_sdtm/`
+* `cdisc_adam/`
+* `tlf/`
+* `qc/`
+* `projects/`
+
 
 ---
 
