@@ -64,7 +64,6 @@ The main portfolio project is based on a fictional Phase 2 clinical study using 
 Clinical-SAS-Mastery/
 │
 ├── README.md
-├── ROADMAP.md
 ├── base_sas/
 ├── advanced_sas/
 ├── cdisc_sdtm/
