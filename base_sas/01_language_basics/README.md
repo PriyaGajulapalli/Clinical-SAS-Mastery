@@ -1,4 +1,4 @@
-#BAse SAS Language Basics
+#Base SAS Language Basics
 
 This folder contains beginner-level Base SAS practice programs.
 
