@@ -1,21 +1,24 @@
+
 # Clinical SAS Programming Portfolio
 
 An industry-aligned Clinical SAS programming portfolio built with synthetic clinical-trial data.
 
-This repository documents my structured preparation for a Clinical SAS Programmer role through hands-on programming practice, clinical data projects, and quality-control workflows.
+This repository documents my structured preparation for an entry-level Clinical SAS Programmer role through hands-on programming practice, clinical data projects, documentation, and quality-control workflows.
 
 ## Portfolio Focus
 
 - Base SAS programming
-- SAS SQL
+- PROC SQL
 - SAS macro programming
 - Clinical data cleaning and transformation
 - CDISC SDTM concepts
 - CDISC ADaM concepts
 - Tables, Listings, and Figures
-- Independent programming and QC
+- Independent programming and quality control
 - PROC COMPARE validation
 - Clinical programming documentation
+- SAS log review and debugging
+- Output analysis and validation
 
 ## Clinical Programming Workflow
 
@@ -35,7 +38,7 @@ Independent QC and Validation
 
 ## Planned Clinical Study Project
 
-The main portfolio project is based on a fictional Phase 2 clinical study using synthetic data.
+The main portfolio project is based on a fictional Phase 2 clinical study using synthetic clinical-trial data.
 
 ### Planned SDTM Domains
 
@@ -75,23 +78,32 @@ Clinical-SAS-Mastery/
 
 ## Quality Approach
 
-Each completed task may include:
+Completed work may include the following, where applicable:
 
 - SAS program
 - SAS log
 - Output dataset or report
 - Quality checks
 - Program documentation
-- Independent QC program, where applicable
-- PROC COMPARE results, where applicable
+- Independent QC program
+- PROC COMPARE results
+- Output review and validation notes
 
-The programming process focuses on reproducibility, traceability, clear documentation, and careful review of SAS log messages.
+The programming process focuses on:
 
-## Disclaimer
+- Reproducibility
+- Traceability
+- Clear documentation
+- SAS log review
+- Output analysis
+- Error and warning resolution
+- Independent validation
+
+## Data and Confidentiality Disclaimer
 
 This is a learning and portfolio repository.
 
-All data used in this repository is synthetic, simulated, or publicly available practice data.
+All clinical-trial data used in this public repository is synthetic data created for learning, demonstration, and interview preparation.
 
 This repository does not contain:
 
@@ -102,20 +114,21 @@ This repository does not contain:
 - Proprietary clinical-trial data
 - Production regulatory submission packages
 
-The programs and outputs are created for learning, demonstration, and interview preparation purposes.
+The programs and outputs are created for learning, demonstration, and interview preparation purposes only.
 
-## About Me
+## Professional Focus
 
-I am an aspiring Clinical SAS Programmer building practical skills in:
+This portfolio demonstrates my structured preparation for an entry-level Clinical SAS Programmer role through practical work in:
 
 - Clinical data programming
 - Base SAS
-- SAS SQL and macro programming
+- PROC SQL and SAS macro programming
 - CDISC SDTM and ADaM concepts
 - Tables, Listings, and Figures
 - Independent programming and quality control
+- SAS log review and output validation
 
-This portfolio represents my hands-on learning, structured practice, and preparation for a Clinical SAS programming career.
+The portfolio is maintained using synthetic clinical-trial data and documented programming workflows.
 
 ## Current Status
 
@@ -123,3 +136,7 @@ This portfolio represents my hands-on learning, structured practice, and prepara
 - Base SAS practice in progress
 - Synthetic clinical study project under development
 - SDTM, ADaM, TLF, and QC workflows being developed
+- SAS log review and output-analysis skills being developed
+
+
+
