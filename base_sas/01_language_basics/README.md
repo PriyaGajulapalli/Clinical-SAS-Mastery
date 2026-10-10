@@ -1,8 +1,12 @@
 # Base SAS Language Basics
 
-This folder contains beginner-level Base SAS programming practice using synthetic data.
+This folder contains beginner-level Base SAS programming practice using SAS-provided sample datasets and synthetic data created for learning and portfolio demonstration.
 
-## Topics Covered
+The work in this folder focuses on building a strong foundation in Base SAS programming, data handling, SAS procedures, log review, debugging, and output validation.
+
+## Learning Scope
+
+The following topics are being studied progressively:
 
 - SAS comments and statements
 - DATA step and PROC step
@@ -22,20 +26,51 @@ This folder contains beginner-level Base SAS programming practice using syntheti
 - Output prediction and analysis
 - Clinical-style validation checks
 
+Individual files and lesson documentation show the progress for each topic.
+
 ## Practice Method
 
-Each topic is studied through:
+Each topic is practised through:
 
-- Theory explanation
+- Concept explanation
 - Guided SAS programming
+- Line-by-line code review
 - Independent exercises
 - SAS log review
+- Output prediction
 - Output analysis
 - Debugging practice
+- Data-quality and validation checks
 - GitHub documentation
+
+## Programming and Quality Focus
+
+The practice in this folder focuses on:
+
+- Understanding DATA step and PROC step processing
+- Reading and interpreting SAS logs
+- Identifying errors, warnings, and unexpected results
+- Checking observations and variables
+- Preserving the original input data
+- Writing clear and reproducible SAS programs
+- Explaining programming decisions accurately
+- Connecting Base SAS skills to future clinical programming work
 
 ## Data Policy
 
-All data used in this folder is synthetic data created for learning and portfolio demonstration.
+Base SAS practice may use:
 
-No patient-identifiable information, protected health information, sponsor-confidential data, or proprietary clinical-trial data is used.
+- SAS-provided sample datasets
+- Synthetic data created for learning and demonstration
+
+This folder does not use:
+
+- Patient-identifiable information
+- Protected health information
+- Real patient records
+- Sponsor-confidential data
+- Proprietary clinical-trial data
+- Company-owned programming code
+
+All programs and outputs are created for learning, portfolio demonstration, and interview preparation purposes only.
+
